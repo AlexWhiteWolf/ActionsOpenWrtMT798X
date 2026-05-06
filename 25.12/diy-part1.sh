@@ -48,7 +48,7 @@ git clone --depth=1 -b dev https://github.com/vernesong/OpenClash.git feeds/luci
 #git clone --depth=1 https://github.com/sirpdboy/luci-app-taskplan.git package/custom/taskplan
 #git clone --depth=1 https://github.com/iv7777/luci-app-authshield.git package/custom/authshield
 #git clone --depth=1 https://github.com/destan19/OpenAppFilter.git package/custom/OpenAppFilter
-git clone --depth=1 https://github.com/janvanstiphout/luci-app-accesscontrol.git package/custom/accesscontrol
+#git clone --depth=1 https://github.com/janvanstiphout/luci-app-accesscontrol.git package/custom/accesscontrol
 
 # 升级替换 mosdns
 # drop mosdns and v2ray-geodata packages that come with the source
